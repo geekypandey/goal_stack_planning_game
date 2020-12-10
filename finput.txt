@@ -1,0 +1,16 @@
+4
+ontable A
+on B A
+ontable C
+ontable D
+clear B
+clear C
+clear D
+done
+ontable A
+ontable B
+on C A
+on D B
+clear C
+clear D
+done
